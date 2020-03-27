@@ -1,4 +1,4 @@
-# Final-Project
+# Relationship Between Education and Social Mobility
 Summary:
 
 Adequate social mobility is essential for the healthy development of a society. A large number of studies have shown that social mobility is related to multiple factors, and education is one of the most concerned. To study the relationship between education level and social mobility, we analyzed 12 US cities. We designed a scoring algorithm to evaluate the education level and social mobility of each city. We found that, overall, social mobility is positively related to education level.
@@ -18,6 +18,7 @@ To avoid bias, we independently designed the evaluation methods of education lev
 
 3. the relationship between education level and social mobility:
 ![](https://github.com/hynz233/Final-Project/blob/master/Final_plot.png)
+
 On the whole, there is a clear positive correlation between social mobility and education. But Boston and Detroit do not follow this pattern. Boston has a high education score, but its social mobility is low. Detroit, on the other hand, has a lower education score but higher social mobility. We are unable to give a reasonable explanation for this at the moment, and further analysis is needed.
 
 
