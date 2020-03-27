@@ -6,7 +6,7 @@ Adequate social mobility is essential for the healthy development of a society. 
 
 Industry question: Can better education lead to higher social mobility?
 
-Data question: 1. How do we evaluate education level and social mobility of a city? 2. What is the relationship between education level and social mobility
+Data question: 1. How do we evaluate education level and social mobility of a city? 2. What is the relationship between education level and social mobility?
 
 Data answer: 
 
